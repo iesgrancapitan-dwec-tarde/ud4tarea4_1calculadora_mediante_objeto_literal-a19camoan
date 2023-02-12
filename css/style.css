@@ -10,13 +10,19 @@
 
 input {
     margin-top: 5%;
+    margin-bottom: 1%;
     text-align: right;
     padding: 5px;
-    width: 24%;
+    width: 35%;
 }
 
 button {
-    width: 3%;
+    width: 8%;
     margin: 2px;
     padding: 4px;
+}
+
+div{
+    background-color: #f2f2f2;
+    border: 1px solid #ccc;
 }
